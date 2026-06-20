@@ -79,6 +79,7 @@ This loop repeats until loss decreases and predictions converge toward true valu
 | File | Description |
 |---|---|
 | `micrograd.ipynb` | `Value` class, autograd engine, MLP implementation, and annotated backprop derivations in comments |
+| `micrograd.pdf` | Hand-derived forward and backward pass for a 2-layer net — full chain rule derivation of ∂L/∂w₁, ∂L/∂w₂, ∂L/∂b₁, ∂L/∂b₂ |
 
 ---
 
